@@ -6,14 +6,14 @@
 
 ![](./Instruction/0.JPG)
 
-![](./Photos/1.PNG)
+![](./Photos/1.jpg)
 
-![](./Photos/2.PNG)
+![](./Photos/2.jpg)
 
-![](./Photos/3.PNG)
+![](./Photos/3.jpg)
 
-![](./Photos/4.PNG)
+![](./Photos/4.jpg)
 
-![](./Photos/5.PNG)
+![](./Photos/5.jpg)
 
-![](./Photos/6.PNG)
+![](./Photos/6.jpg)
