@@ -6,8 +6,6 @@
 
 ![](./Instruction/0.JPG)
 
-![](./Photos/0.JPG)
-
 ![](./Photos/1.PNG)
 
 ![](./Photos/2.PNG)
